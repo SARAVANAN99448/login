@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: rgb(129, 82, 240);
+    display: flex;
+    justify-content: center;
+    height: 641px;
+    align-items: center;
+}
+.section{
+    background-color: lavenderblush;
+    padding: 50px;
+    border-radius: 10px;
+}
+.text{
+    outline: none;
+    border-radius: 10px;
+    padding: 10px;
+    border: black 1px solid;
+}
+.btn1{
+    padding: 10px;
+    border-radius: 10px;
+    background-color:rgba(227, 16, 107, 0.68);
+    color: white;
+    border: none;
+}
